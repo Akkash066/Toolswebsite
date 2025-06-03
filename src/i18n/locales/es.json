@@ -1,0 +1,47 @@
+{
+  "pdf": {
+    "common": {
+      "dropzone": "Arrastra y suelta archivos aquí, o haz clic para seleccionar",
+      "processing": "Procesando...",
+      "success": "Operación completada con éxito",
+      "error": "Se produjo un error",
+      "download": "Descargar",
+      "preview": "Vista previa",
+      "cancel": "Cancelar",
+      "maxSize": "Tamaño máximo de archivo:",
+      "mb": "MB"
+    },
+    "tools": {
+      "merge": {
+        "title": "Combinar PDFs",
+        "description": "Combina múltiples archivos PDF en un solo documento",
+        "selectFiles": "Selecciona archivos PDF para combinar",
+        "arrangeFiles": "Organiza los archivos en el orden deseado"
+      },
+      "split": {
+        "title": "Dividir PDF",
+        "description": "Divide un PDF en múltiples archivos",
+        "selectPages": "Selecciona las páginas para dividir",
+        "pageRange": "Rango de páginas"
+      },
+      "compress": {
+        "title": "Comprimir PDF",
+        "description": "Reduce el tamaño del archivo PDF manteniendo la calidad",
+        "quality": {
+          "high": "Alta Calidad",
+          "medium": "Calidad Media",
+          "low": "Baja Calidad"
+        }
+      },
+      "convert": {
+        "title": "Convertir PDF",
+        "description": "Convierte PDF a otros formatos",
+        "formats": {
+          "jpg": "JPG",
+          "png": "PNG",
+          "tiff": "TIFF"
+        }
+      }
+    }
+  }
+}
