@@ -1,5 +1,3 @@
-```typescript
-import React, { useState } from 'react';
 import { ArrowLeft, Upload, Image as ImageIcon, Crop, Palette, Download, Layers } from 'lucide-react';
 import ImageProcessor from '../../components/ImageProcessor';
 
@@ -51,4 +49,3 @@ const ImageTools = () => {
 };
 
 export default ImageTools;
-```
